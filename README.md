@@ -7,7 +7,7 @@
 ![效果4](https://github.com/chushiyan/slide_captcha_cracking/raw/master/results/004.gif "效果4")
 
 ## 二、滑块验证码的破解
-滑块验证码的破解的难点主要有两个：计算出滑块到缺口的距离和模拟人拖动滑块的轨迹。
+滑块验证码的破解的难点主要有两个：计算出滑块到缺口的距离和模拟人拖动滑块的轨迹。  
 如何计算出滑块到缺口的距离？从网上的资料来看，主要有两种方式：自己使用Pillow库实现算法，  
 使用OpenCV库提供的现成方法。本文就使用后者，简单而又强大、成功率高。
 
@@ -17,8 +17,8 @@
 
 OpenCV（Open Source Computer Vision Library）是一个开源的计算机视觉库，  
 提供了很多处理图片、视频的方法。虽然是C/C++开发的，但是提供了 Python、Java、MATLAB 等其他语言的接口。
+OpenCV-python库就是使用pthon操作OpenCV的一个库。
 
-      OpenCV-python库就是使用pthon操作OpenCV的一个库。
 ## 四、为什么要用OpenCV-python库？
 
 说白了，就是OpenCV库提供了一个方法（matchTemplate()）：从一张较大的图片中搜索一张较小图片，  
