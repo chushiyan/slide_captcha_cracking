@@ -1,9 +1,10 @@
  ## 一、首先看看破解的效果图
 
-    ![效果1](https://img-blog.csdnimg.cn/20190926000940884.gif)
-    ![效果2](https://github.com/chushiyan/slide_captcha_cracking/raw/master/results/002.gif "效果2")
-    ![效果3](https://github.com/chushiyan/slide_captcha_cracking/raw/master/results/003.gif "效果3")
-    ![效果4](https://github.com/chushiyan/slide_captcha_cracking/raw/master/results/004.gif "效果4")
+ 
+![效果1](https://img-blog.csdnimg.cn/20190926000940884.gif)
+![效果2](https://github.com/chushiyan/slide_captcha_cracking/raw/master/results/002.gif "效果2")
+![效果3](https://github.com/chushiyan/slide_captcha_cracking/raw/master/results/003.gif "效果3")
+![效果4](https://github.com/chushiyan/slide_captcha_cracking/raw/master/results/004.gif "效果4")
 
 ## 二、滑块验证码的破解
 
