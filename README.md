@@ -41,3 +41,9 @@ OpenCV-python库就是使用pthon操作OpenCV的一个库。
 
 `pip install -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com opencv-python`
 
+## 六、代码
+main.py 破解今日头条PC端登录页面滑块验证码的代码
+get_img.py 采集的100对验证码（滑块背景图片和滑块）
+
+
+
