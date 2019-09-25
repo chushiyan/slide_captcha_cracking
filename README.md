@@ -11,7 +11,7 @@
 如何计算出滑块到缺口的距离？从网上的资料来看，主要有两种方式：自己使用Pillow库实现算法，  
 使用OpenCV库提供的现成方法。本文就使用后者，简单而又强大、成功率高。
 
-本文主要参考https://juejin.im/post/5cf4cbd4f265da1b8e7089b4，  
+本文主要参考[简书博客](https://juejin.im/post/5cf4cbd4f265da1b8e7089b4)，  
 但是由于它的注释太少，也未给出完整代码。所以，决定写这篇博客。
 ## 三、什么是OpenCV？什么是OpenCV-python？
 
@@ -25,8 +25,8 @@ OpenCV（Open Source Computer Vision Library）是一个开源的计算机视觉
 计算出这张大图上各个区域和小图相似度。调用这个方法后返回一个二维数组（numpy库中ndarray对象），  
 从中就能拿到最佳匹配区域的坐标。换到滑块验证码上面，滑块背景图片是大图，滑块是小图。
 
-[opencv-python官网](https://docs.opencv.org/4.0.0/index.html)
-[cv.matchTemplate()方法](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_template_matchin/py_template_matching.html)
+[opencv-python官网](https://docs.opencv.org/4.0.0/index.html)  
+[cv.matchTemplate()方法](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_template_matchin/py_template_matching.html)  
 [今日头条PC端登录页面](https://sso.toutiao.com/)
 
 ## 五、环境
