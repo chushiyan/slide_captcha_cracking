@@ -1,6 +1,6 @@
  ## 一、首先看看破解的效果图
 
-    ![效果1](https://raw.githubusercontent.com/chushiyan/slide_captcha_cracking/master/results/001.gif)
+    ![效果1](https://github.com/chushiyan/slide_captcha_cracking/blob/master/results/001.gif?raw=true)
     ![效果2](https://github.com/chushiyan/slide_captcha_cracking/raw/master/results/002.gif "效果2")
     ![效果3](https://github.com/chushiyan/slide_captcha_cracking/raw/master/results/003.gif "效果3")
     ![效果4](https://github.com/chushiyan/slide_captcha_cracking/raw/master/results/004.gif "效果4")
