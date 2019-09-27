@@ -36,7 +36,7 @@ def findPic(img_bg_path, img_slider_path):
     # 读取滑块，参数1是图片路径，参数2是使用灰度模式
     img_slider_gray = cv.imread(img_slider_path, 0)
 
-    # 在滑块背景图中匹配滑块
+    # 在滑块背景图中匹配滑块。参数cv.TM_CCOEFF_NORMED是opencv中的一种算法
     res = cv.matchTemplate(img_bg_gray, img_slider_gray, cv.TM_CCOEFF_NORMED)
 
     print('#' * 50)
