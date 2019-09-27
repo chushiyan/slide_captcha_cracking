@@ -11,8 +11,8 @@
 如何计算出滑块到缺口的距离？从网上的资料来看，主要有两种方式：自己使用Pillow库实现算法，  
 使用OpenCV库提供的现成方法。本文就使用后者，简单而又强大、成功率高。
 
-本文主要参考[简书博客](https://juejin.im/post/5cf4cbd4f265da1b8e7089b4)，  
-但是由于它的注释太少，也未给出完整代码。所以，决定写这篇博客。
+本文主要参考[掘金播客](https://juejin.im/post/5cf4cbd4f265da1b8e7089b4)，  
+但是由于它的注释太少，也未给出完整代码。所以，决定写这篇教程。
 ## 三、什么是OpenCV？什么是OpenCV-python？
 
 OpenCV（Open Source Computer Vision Library）是一个开源的计算机视觉库，  
