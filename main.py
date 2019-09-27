@@ -15,6 +15,7 @@ import random
 def findPic(img_bg_path, img_slider_path):
     """
     找出图像中最佳匹配位置
+    传入滑块背景图片和滑块路径，返回滑块到缺口的距离
     :param img_bg_path: 滑块背景图本地路径
     :param img_slider_path: 滑块图片本地路径
     :return: 返回最差匹配、最佳匹配对应的x坐标
