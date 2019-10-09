@@ -43,7 +43,11 @@ OpenCV-python库就是使用pthon操作OpenCV的一个库。
 
 ## 六、代码
 main.py 破解今日头条PC端登录页面滑块验证码的代码  
-get_img.py 采集的100对验证码（滑块背景图片和滑块）
+get_img.py 采集100对验证码（滑块背景图片和滑块）
+
+
+本文仅作为技术交流使用，如有侵权请联系我。
+邮箱：Y2h1c2hpeWFuMDQxNUAxNjMuY29t（base64）
 
 
 
